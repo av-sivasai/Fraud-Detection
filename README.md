@@ -29,7 +29,7 @@ During the work on the project, I've played with the different features and mode
 apply principal component analysis and GaussianNB classifier, another strategy was to use decision tree classifier, incl. choosing the 
 features with features importance attribute and tuning the model.
 
-<img src="">
+<img src="https://github.com/av-sivasai/Fraud-Detection/blob/main/img/feature.png">
 
 ### Create new features
 For both strategies I've tried to create new features as a fraction of almost all financial variables (f.ex. fractional bonus 
@@ -60,6 +60,10 @@ algorithm tuning and it lets us find the golden mean and best result. If I don't
 Algorithm might be tuned manually by iteratively changing the parameteres and tracking the results. Or GridSearchCV might be used which makes this automatically.
 I've tuned the parameteres of my decision tree classifier by sequentially tuning parameter by parameter and got the best F1 using these parameters
 <hr> </hr>
+
+<img src="https://github.com/av-sivasai/Fraud-Detection/blob/main/img/k_means.png">
+<img src="https://github.com/av-sivasai/Fraud-Detection/blob/main/img/outliers.png">
+<img src="https://github.com/av-sivasai/Fraud-Detection/blob/main/img/regression.png">
 
 ## Validate and Evaluate
 ### Usage of Evaluation Metrics
