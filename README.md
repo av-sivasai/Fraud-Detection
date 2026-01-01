@@ -61,9 +61,7 @@ Algorithm might be tuned manually by iteratively changing the parameteres and tr
 I've tuned the parameteres of my decision tree classifier by sequentially tuning parameter by parameter and got the best F1 using these parameters
 <hr> </hr>
 
-<img src="https://github.com/av-sivasai/Fraud-Detection/blob/main/img/k_means.png">
-<img src="https://github.com/av-sivasai/Fraud-Detection/blob/main/img/outliers.png">
-<img src="https://github.com/av-sivasai/Fraud-Detection/blob/main/img/regression.png">
+<img src="https://github.com/av-sivasai/Fraud-Detection/blob/main/img/outliers.png"><img src="https://github.com/av-sivasai/Fraud-Detection/blob/main/img/regression.png">
 
 ## Validate and Evaluate
 ### Usage of Evaluation Metrics
