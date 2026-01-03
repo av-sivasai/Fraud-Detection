@@ -4,7 +4,7 @@ The Enron fraud is the largest case of corporate fraud in American history. Foun
 **Dataset**: <a href="https://www.cs.cmu.edu/~./enron/"> https://www.cs.cmu.edu/~./enron/ </a> 
 <hr></hr>
 
-## <u> Goal of the Porject: </u>
+## <u> Goal of the Project: </u>
 The goal of the project is to go through the thought process of data exploration (learning, cleaning and preparing the data), 
 feature selecting/engineering (selecting the features which influence mostly on the target, 
 create new features (which explains the target the better than existing) and, 
