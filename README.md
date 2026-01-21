@@ -88,8 +88,8 @@ using and tuning alternative algorithms like Random Forest.
 It’s important to identify and acknowledge the limitation of the study. My conclusions are based just on the provided 
 data set which represent just 143 persons. To get the real causation, I should gather all financial and email information 
 about all enron persons which is most probably not possible. Missing email values were imputed with median so the modes of the distributions 
-of email features are switched to the medians. Algorithms were tuned sequentially (I've changed one parameter to achieve better performance 
-and then swithched to another parameter. There is a chance that othere parameters in combination might give better model's accuracy).
+of email features are switched to the medians. Algorithms were tuned sequentially I've changed one parameter to achieve better performance 
+and then swithched to another parameter. There is a chance that othere parameters in combination might give better model's accuracy.
 
 ## References:
 - Enron data set: <a href="https://www.cs.cmu.edu/~./enron/"> https://www.cs.cmu.edu/~./enron/ </a>
